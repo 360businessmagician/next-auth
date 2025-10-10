@@ -17,10 +17,10 @@
     "vite": "^4.5.6"
   },
   "dependencies": {
-    "@auth/solid-start": "latest",
+    "@auth/solid-start": "0.14.0",
     "@solidjs/meta": "^0.28.0",
     "@solidjs/router": "^0.6.0",
-    "solid-js": "^1.5.7",
+    "solid-js": "^1.9.4",
     "solid-start": "^0.2.9",
     "zod": "^3.19.1"
   },
